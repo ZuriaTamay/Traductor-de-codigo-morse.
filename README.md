@@ -14,13 +14,13 @@ Programa de Codigo_Morse:
 
       a.	Si selecciona la opción uno nos desplegará una ventana donde nos pedirá que introduzcamos la clave de código morse.
       
-            i.	Seguidamente introduciremos la palabra en código morse para traducir en texto (español), daremos clic en aceptar y se                     nos desplegará otra ventana con el resultado.
+            i.	Seguidamente introduciremos la palabra en código morse para traducir en texto (español), daremos clic en aceptar y se  nos desplegará otra ventana con el resultado.
             
             ii.	Posteriormente daremos clic en aceptar y se cerrara el programa.
             
       b.	Si seleccionamos la opción dos nos desplegará una venta que nos pedirá introduzca el texto (español).
       
-            i.	Seguidamente introduciremos el texto(español) para traducir en código morse, daremos clic en aceptar y se nos desplegará                   una venta con el resultado.
+            i.	Seguidamente introduciremos el texto(español) para traducir en código morse, daremos clic en aceptar y se nos desplegará una venta con el resultado.
             
             ii.	Posteriormente daremos clic en aceptar y se cerrara el programa.
                 
